@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8671679
+  lightness: 0.7694235
+  brandStrength: 1
+  brandColors:
+    - '#424C65'
+    - '#6E7788'
+    - '#C6C6BD'
+    - '#28211D'
+    - '#FFB464'
+  rhythmicContrast: 0.7600251
+typography_spectrum: 0.4830827
+name: mikemonday
